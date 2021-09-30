@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Pacelin
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning git and unity C#
+- 💞️ I’m looking to collaborate on game development
